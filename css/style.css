@@ -1,0 +1,18 @@
+canvas {
+    display: block;
+    margin: 50px auto;
+    box-shadow: -2px -2px 2px #efefef, 5px 5px 5px #b9b9b9;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+#mode {
+    width: 450px;
+    font-size: 48px;
+}
